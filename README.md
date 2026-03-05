@@ -40,6 +40,6 @@ Projeto desenvolvido para praticar:
 
 ## 🌐 Acesse o Projeto Online
 
-(Coloque aqui o link do GitHub Pages)
+https://joaopedro-h.github.io/RandomPassword-JavaScript/
 
 ---
